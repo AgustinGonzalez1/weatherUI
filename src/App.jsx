@@ -1,5 +1,3 @@
-//console.log(import.meta.env.VITE_API_KEY);
-
 import { LoadingButton } from "@mui/lab";
 import { Box, Container, TextField, ThemeProvider, Typography, createTheme } from "@mui/material";
 
